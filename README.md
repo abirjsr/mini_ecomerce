@@ -1,3 +1,9 @@
+!{image alt}(https://github.com/abirjsr/mini_ecomerce/blob/006a67c541439994af33dd9006f94402ad931c0d/Screenshot%202026-02-12%20192133.jpg)
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
