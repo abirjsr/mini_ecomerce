@@ -1,4 +1,4 @@
-!{image alt}(https://github.com/abirjsr/mini_ecomerce/blob/006a67c541439994af33dd9006f94402ad931c0d/Screenshot%202026-02-12%20192133.jpg)
+
 
 
 
@@ -28,6 +28,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+
+!{image alt}(https://github.com/abirjsr/mini_ecomerce/blob/006a67c541439994af33dd9006f94402ad931c0d/Screenshot%202026-02-12%20192133.jpg)
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
