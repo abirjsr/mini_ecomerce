@@ -47,12 +47,12 @@ export class OrdersController {
     return this.ordersService.getAllOrders();
   }
 
-  @Get(':id')
+  @Get(':id')  //hi abir 
   findOne(@Param('id') id: string) {
     return this.ordersService.findOne(id);
   }
 
-  @Patch(':id/status')
+  @Patch(':id/status')  //hello 
   @UseGuards(RolesGuard)
   @Roles(Role.ADMIN)
   updateStatus(@Param('id') id: string, @Body('status') status: OrderStatus) {

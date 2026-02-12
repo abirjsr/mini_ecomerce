@@ -84,7 +84,7 @@ export class OrdersService {
         await queryRunner.manager.save(OrderItem, item);
       }
 
-      // Clear cart
+      
       await this.cartService.clearCart(userId);
 
       await queryRunner.commitTransaction();
